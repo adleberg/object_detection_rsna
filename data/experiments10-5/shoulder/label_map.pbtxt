@@ -10,10 +10,10 @@ item {
 
 item {
   id: 3
-  name: 'r_dislocated_shoulder'
+  name: 'l_dislocated_shoulder'
 }
 
 item {
   id: 4
-  name: 'l_normal_shoulder'
+  name: 'r_normal_shoulder'
 }
