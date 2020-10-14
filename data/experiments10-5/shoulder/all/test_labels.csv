@@ -1,4 +1,4 @@
-filename,width,height,class,xmin,ymin,xmax,ymax
+filename,width,height,class,xmin,ymin,xmax,ymax,
 s58252627.jpg,512,426,r_dislocated_shoulder,62,77,144,189,
 s50516008.jpg,512,426,l_dislocated_shoulder,386,70,479,217,
 s51666687.jpg,512,426,l_dislocated_shoulder,371,61,490,190,
